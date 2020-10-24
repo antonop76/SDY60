@@ -2,7 +2,7 @@
 
 antonop76@gmail.com – mobile: +31645632766
 
-120 Middelweg St, Wassenaar, 2241AT, NETHERLANDS
+Wassenaar, NETHERLANDS
 
 
 
