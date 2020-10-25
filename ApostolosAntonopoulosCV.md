@@ -147,12 +147,10 @@ Team spirit; experienced with working in multicultural environment; communicativ
 
 ## **Foreign language skills and certificates:**
 
-Greek (native tongue)
-
-English (fluent), Cambridge Proficiency in English, 1993
-
-French (professional proficiency), Certificat Pratique de langue française, 1995
-
-German (limited working proficiency), Zentrale Mittelstufe Prüfung, 2002
-
-Dutch (basic knowledge)
+Language| Level of knowledge | Cerification | 
+|--------|--------------------|--------------| 
+|Greek | native tongue | |
+|English|fluent| Cambridge Proficiency in English, 1993|
+|French| professional proficiency| Certificat Pratique de langue française, 1995|
+|German |limited working proficiency|Zentrale Mittelstufe Prüfung, 2002|
+|Dutch| basic knowledge |
