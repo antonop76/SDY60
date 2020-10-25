@@ -18,7 +18,7 @@ An intellectual property professional occupied in search and examination of pate
 
 ### Patent Examiner - (November 2016 -today)
 
-European Patent Office - www.epo.org
+**European Patent Office** - www.epo.org
 
 Headquarters - Munich, Germany
 
@@ -30,7 +30,7 @@ Main activities: Search and Examination of patent applications in the fields of 
 
 ### Lead Automation Systems Engineer – (June 2008 – November 2016)
 
-METKA SA - http://www.metka.com
+**METKA SA** - http://www.metka.com
 
 Headquarters - Artemidos 8 Str, Maroussi, Athens, GREECE
 
@@ -55,7 +55,7 @@ Leading a team of two control engineers at the electrical engineering office and
 
 ### Electrical and Control Systems Engineer– (December 2004 – June 2008)
 
-METKA SA - http://www.metka.com
+**METKA SA** - http://www.metka.com
 
 Headquarters - Artemidos 8 Str, Maroussi, Athens, GREECE
 
@@ -75,11 +75,9 @@ Responsibilities:
 
 ### Telecommunications field engineer – (July 2004 – December 2004)
 
-TELEVECTIS SA
+**TELEVECTIS SA**
 
 Dendropotamos, Thessaloniki, GREECE
-
- 
 
 Responsibilities:
 
@@ -89,9 +87,7 @@ Responsibilities:
 
 ### Military Service – Cadet Officer (Second Lieutenant) – (February 2003 – July 2004)
 
-Greek Army
-
- 
+**Greek Army**
 
 Responsibilities:
 
@@ -103,15 +99,12 @@ Responsibilities:
 
 ## **Education**
 
-​        
 
 ### Diploma of Electrical and Computer Engineering - September 1994 - July 2000.
 
 Aristotle University of Thessaloniki, Thessaloniki, GREECE
 
-Degree of graduation (7,02/10)
-
- 
+Degree of graduation (7,02/10) 
 
 ### **Master’s Degree in Business Administration – September 2000 – 2011**
 
@@ -119,13 +112,10 @@ University of Macedonia of Economic and Social Sciences, Thessaloniki, GREECE
 
 Degree of graduation (8/10)
 
- 
-
 ### **Master’s Degree in Engineering of Pervasive Computer Systems (October 2014 – 2023 expected)**
 
 Hellenic Open University, Patras, GREECE
 
- 
 
 ### **Professional training (seminars):**
 
