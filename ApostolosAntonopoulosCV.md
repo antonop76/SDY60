@@ -83,7 +83,7 @@ Dendropotamos, Thessaloniki, GREECE
 
 Responsibilities:
 
-·    Supervision of erection of telecommunications equipment (GSM mobile stations, microwave antennas, transmitters, UHF cables).
+* Supervision of erection of telecommunications equipment (GSM mobile stations, microwave antennas, transmitters, UHF cables).
 
  
 
@@ -95,11 +95,9 @@ Greek Army
 
 Responsibilities:
 
- 
+* Leading a band of soldiers serving in the Supply and Logistics Corps
 
-·    Leading a band of soldiers serving in the Supply and Logistics Corps
-
-·    Logistics and warehouse management of supplies
+* Logistics and warehouse management of supplies
 
 
 
