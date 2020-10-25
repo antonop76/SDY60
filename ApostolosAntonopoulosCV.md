@@ -1,6 +1,6 @@
 # Apostolos Antonopoulos
 
-![Myphoto] (https://github.com/antonop76/SDY60/blob/main/20180509_142520.jpg)
+![Myphoto](https://github.com/antonop76/SDY60/blob/main/20180509_142520_2.jpg)
 
 antonop76@gmail.com – mobile: +31645632766
 
