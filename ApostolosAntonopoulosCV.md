@@ -38,35 +38,20 @@ Workplace location: Electrical Engineering and Commissioning Department – Ifig
 
 Main activities: Engineering, Procurement, Construction of Energy projects (Combined Cycle Power Plants) in Europe, Middle East and Africa.
 
- 
-
 Responsibilities:
+Leading a team of two control engineers at the electrical engineering office and another team of two commissioning engineers on project sites.
+1. The office team is responsible for:
+*  Producing suitable engineering documentation for procurement, configuration, installation and commissioning of process control systems, mainly for electrical installations (such as control diagrams, I/O lists, HMI display templates, network diagrams, control narrative descriptions, control system specifications, FAT and SAT procedures and third party interfaces)
+*  Reviewing engineering documentation from control systems vendors and ensures that projects’ requirements are met, including participation to FAT
+*  Providing remote support to commissioning team activities and onsite when required
+*  Collaborating with the procurement department by reviewing suppliers’ technical proposals of control system (DCS/PLC) equipment, ensuring compliance to technical specifications
+*  Consulting the sales department by reviewing customer specifications, preparing material for new projects proposals and participating in negotiations related to electrical and control issues
+2. The site team is responsible for:
 
- 
+*  Commissioning of control systems
+*  Supervise control systems suppliers’ works according to projects’ requirements
+*  Final hand over of control systems to the end client
 
-·    Leading a team of two control engineers at the electrical engineering office and another team of two commissioning engineers on project sites.
-
-·    The office team is responsible for:
-
-o  Producing suitable engineering documentation for procurement, configuration, installation and commissioning of process control systems, mainly for electrical installations (such as control diagrams, I/O lists, HMI display templates, network diagrams, control narrative descriptions, control system specifications, FAT and SAT procedures and third party interfaces)
-
-o  Reviewing engineering documentation from control systems vendors and ensures that projects’ requirements are met, including participation to FAT
-
-o  Providing remote support to commissioning team activities and onsite when required
-
-o  Collaborating with the procurement department by reviewing suppliers’ technical proposals of control system (DCS/PLC) equipment, ensuring compliance to technical specifications
-
-o  Consulting the sales department by reviewing customer specifications, preparing material for new projects proposals and participating in negotiations related to electrical and control issues
-
-·    The site team is responsible for:
-
-o  Commissioning of control systems
-
-o  Supervise control systems suppliers’ works according to projects’ requirements
-
-o  Final hand over of control systems to the end client
-
- 
 
 ### Electrical and Control Systems Engineer– (December 2004 – June 2008)
 
@@ -78,22 +63,14 @@ Workplace location: Electrical Engineering and Commissioning Department – Ifig
 
 Main activities: Engineering, Procurement, Construction of Energy projects (Combined Cycle Power Plants) in Europe, Middle East and Africa.
 
- 
 
 Responsibilities:
 
- 
-
-·    Preparation of engineering deliverables for electrical and control part of power plant projects such as I/O lists, control diagrams/narrative descriptions for automation systems, electric control panel drawings with Cady++, sizing of electrical equipment through calculations (cables, diesel generators, CTs & VTs), FAT and SAT procedures and preparations of specifications for control systems
-
-·    Participation to DCS FAT in vendor premises
-
-·    Commissioning of DCS/PLC/SCADA systems; programming of DCS/PLC/SCADA systems (Foxboro I/A series DCS, Siemens Simatic, Allen Bradley) by using proprietary or IEC 61131 languages.
-
-·    Commissioning of electrical equipment (electrical switchgears, diesel generating sets, protection relays).
-
-·    A total commissioning experience of approximately three years’ period
-
+1.    Preparation of engineering deliverables for electrical and control part of power plant projects such as I/O lists, control diagrams/narrative descriptions for automation systems, electric control panel drawings with Cady++, sizing of electrical equipment through calculations (cables, diesel generators, CTs & VTs), FAT and SAT procedures and preparations of specifications for control systems
+2.   Participation to DCS FAT in vendor premises
+3.    Commissioning of DCS/PLC/SCADA systems; programming of DCS/PLC/SCADA systems (Foxboro I/A series DCS, Siemens Simatic, Allen Bradley) by using proprietary or IEC 61131 languages.
+4.   Commissioning of electrical equipment (electrical switchgears, diesel generating sets, protection relays).
+5.   A total commissioning experience of approximately three years’ period
  
 
 ### Telecommunications field engineer – (July 2004 – December 2004)
